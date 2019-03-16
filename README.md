@@ -2,6 +2,6 @@
 
 Taller de git realizado el 16 de Marzo 2018
 
-# Contenido
+# Contenido1
 
-Sitio web con slide de músicos famosos
+Algun otro cambio con poca creatividad
