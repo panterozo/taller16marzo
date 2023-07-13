@@ -1,6 +1,6 @@
 # Cuatro libertades
 
-Taller de git realizado el 16 de Marzo 2018
+Taller de git realizado el 12 de Julio 2023
 
 # Contenido1
 
